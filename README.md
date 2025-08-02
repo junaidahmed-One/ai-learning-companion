@@ -1,5 +1,8 @@
 # AI Learning Companion
 
+<img width="1920" height="1100" alt="image" src="https://github.com/user-attachments/assets/09387d20-ab03-4239-84df-7488dd233600" />
+
+
 Converso is a real-time, voice-first AI teaching platform built with Next.js. It allows users to create personalized learning "Companions"—AI tutors tailored to specific subjects and topics. Engage in natural, interactive voice conversations to master new concepts in a fun and effective way.
 
 ## Features
